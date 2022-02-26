@@ -7,3 +7,13 @@
 <h1>Home Page.</h1>
 
 <a href="https://ibb.co/R7bhVrD"><img src="https://i.ibb.co/jHfV10r/Screenshot-5.png" alt="Screenshot-5" border="0"></a>
+
+<h1>Featured Products.</h1>
+
+<a href="https://ibb.co/DQHG6nk"><img src="https://i.ibb.co/jDPVxFG/Screenshot-6.png" alt="Screenshot-6" border="0"></a>
+
+<h1>Cart Page.</h1>
+
+<a href="https://ibb.co/hX4mNnf"><img src="https://i.ibb.co/gvfR8XV/Screenshot-9.png" alt="Screenshot-9" border="0"></a>
+
+
